@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SEUFC</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0b1a2a;
+      color: white;
+      text-align: center;
+    }
+    header {
+      background: #102a44;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    footer {
+      background: #102a44;
+      padding: 15px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>SEUFC</h1>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Fixtures</a>
+    <a href="#">Squad</a>
+    <a href="#">Contact</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Welcome to SEUFC</h2>
+  <p>The official website of SEUFC.</p>
+  <p>Match updates, fixtures, and club news coming soon.</p>
+</section>
+
+<footer>
+  © 2026 SEUFC
+</footer>
+
+</body>
+</html>
